@@ -2,8 +2,6 @@
 
 Projeto de IoT em **MicroPython** que lê temperatura e umidade com um sensor DHT11, aciona um relé automaticamente e envia os dados para a nuvem via **ThingSpeak**. Desenvolvido em simulador de ESP32.
 
-**Vídeo de demonstração:** https://youtu.be/Kqii9CKZqkA
-
 ## O que o projeto faz
 
 1. Conecta o ESP32 ao Wi-Fi.
